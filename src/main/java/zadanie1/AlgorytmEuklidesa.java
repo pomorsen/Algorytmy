@@ -34,6 +34,8 @@ public class AlgorytmEuklidesa {
             throw new IllegalArgumentException("Podane liczby muszą być dodatnie!");
         }
 
+
+
         int r;
         while (b != 0) {
             r = a % b;
