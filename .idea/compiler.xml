@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="23032018_Algorytmy" target="1.5" />
+      <module name="23032018_Algorytmy" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
